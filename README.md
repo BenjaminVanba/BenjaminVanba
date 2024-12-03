@@ -16,7 +16,7 @@
 ## 📂 Projets à découvrir  
 
 
-- **🖥️ [Mon Site](https://benjaminvanba.github.io/MyWebsite):** Un site web portfolio personnel réactif présentant mes compétences, expériences et projets en tant que développeur Full-Stack.
+- **🖥️ [Mon Site](https://benjaminvanba.github.io/MyWebsite) (https://github.com/BenjaminVanba/MyWebsite):** Un site web portfolio personnel réactif présentant mes compétences, expériences et projets en tant que développeur Full-Stack.
 
 
 - **💼 Jobboard (https://github.com/BenjaminVanba/Jobboard):** Une application web de plateforme d'offres d'emploi développée avec Laravel, incluant un back-office administrateur pour gérer la base de données avec MySQL.  
