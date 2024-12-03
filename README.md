@@ -14,7 +14,19 @@
 ---
 
 ## 📂 Projets à découvrir  
-🌐 **[Mon Site](https://benjaminvanba.github.io/MyWebsite)**
+
+
+- **🖥️ [Mon Site](https://benjaminvanba.github.io/MyWebsite):** Un site web portfolio personnel réactif présentant mes compétences, expériences et projets en tant que développeur Full-Stack.
+
+
+- **💼 Jobboard (https://github.com/BenjaminVanba/Jobboard):** Une application web de plateforme d'offres d'emploi développée avec Laravel, incluant un back-office administrateur pour gérer la base de données avec MySQL.  
+
+
+- **🎮 BlackJackCardGame (https://github.com/BenjaminVanba/Cardgame):** Un jeu de Blackjack développé avec le framework libGDX, illustrant les bases du développement de jeux en Java.  
+
+
+- **🌐 GBAF (https://github.com/BenjaminVanba/GBAF):** Mon tout premier site web, une application PHP de connexion sécurisée pour la plateforme GBAF (Groupement Banque Assurance Français).  
+
 
 ---
 
