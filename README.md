@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Projets à découvrir  
-🌐 **[Mon Site]([https://github.com/ton-portfolio](https://benjaminvanba.github.io/MyWebsite/))**   
+🌐 **[Mon Site](https://benjaminvanba.github.io/MyWebsite)**
 
 ---
 
@@ -28,7 +28,7 @@
 ## ✉️ Contactez-moi  
 📧 [benjamin.vanbaelinghem@epitech.eu](mailto:benjamin.vanbaelinghem@epitech.eu)  
 📱 06.71.64.82.60  
-🔗 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/benjamin-vanbaelinghem-39a00825a/))  
+🔗 [Mon LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/benjamin-vanbaelinghem-39a00825a/))  
 
 ---
 
