@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Benjamin Van Baelinghem !  
+# 👋 Bonjour, je suis Benjamin Vanbaelinghem !  
 
 🎓 Étudiant en MSc Pro à [Epitech Nice](https://www.epitech.eu), passionné par l'IT en général.
 🌟 Curieux, autonome et toujours prêt à relever de nouveaux défis techniques.  
