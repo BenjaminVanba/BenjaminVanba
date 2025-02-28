@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis Benjamin Vanbaelinghem !  
+# 👋 Bonjour, moi c'est Ben !  
 
 🎓 Étudiant en MSc Pro à [Epitech Nice](https://www.epitech.eu), passionné par l'IT en général.
-🌟 Curieux, autonome et toujours prêt à relever de nouveaux défis techniques.  
+
 
 ---
 
 ## 🔧 Compétences  
-- **Langages :** JavaScript (Node.js, Vue.js), PHP (Laravel & Symfony), Python, Java  
+- **Langages :** JavaScript (Node.js, Vue.js, Nuxt.js, Typescript), PHP (Laravel & Symfony), Python, Java  
 - **Bases de données :** MySQL  
 - **Outils :** Linux, GitHub, Bash  
 - **Autres :** Relationnel client, gestion de projets, anglais avancé  
@@ -30,16 +30,14 @@
 
 ---
 
-## 🚀 En ce moment  
-📘 Formation en MSc Pro pour obtenir un Bac+5.  
-🔍 Recherche d'une alternance à partir de janvier 2025.  
-💻 Travail sur des projets réseaux.  
+## 🚀 En ce moment   
+
+💻 En alternance chez Mrx-Systems
 
 ---
 
 ## ✉️ Contactez-moi  
 📧 [benjamin.vanbaelinghem@epitech.eu](mailto:benjamin.vanbaelinghem@epitech.eu)  
-📱 06.71.64.82.60  
 🔗 [Mon LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/benjamin-vanbaelinghem-39a00825a/))  
 
 ---
