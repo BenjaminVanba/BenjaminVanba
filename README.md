@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c'est Ben !  
 
-🎓 Étudiant en MSc Pro à [Epitech Nice](https://www.epitech.eu), passionné par l'IT en général.
+🎓 Étudiant en MSc Pro à [Epitech Nice](https://www.epitech.eu).
 
 
 ---
@@ -13,26 +13,9 @@
 
 ---
 
-## 📂 Projets à découvrir  
-
-
-- **🖥️ [Mon Site](https://benjaminvanba.github.io/MyWebsite) (https://github.com/BenjaminVanba/MyWebsite):** Un site web portfolio personnel réactif présentant mes compétences, expériences et projets en tant que développeur Full-Stack.
-
-
-- **💼 Jobboard (https://github.com/BenjaminVanba/Jobboard):** Une application web de plateforme d'offres d'emploi développée avec Laravel, incluant un back-office administrateur pour gérer la base de données avec MySQL.  
-
-
-- **🎮 BlackJackCardGame (https://github.com/BenjaminVanba/Cardgame):** Un jeu de Blackjack développé avec le framework libGDX, illustrant les bases du développement de jeux en Java.  
-
-
-- **🌐 GBAF (https://github.com/BenjaminVanba/GBAF):** Mon tout premier site web, une application PHP de connexion sécurisée pour la plateforme GBAF (Groupement Banque Assurance Français).  
-
-
----
-
 ## 🚀 En ce moment   
 
-💻 En alternance chez Mrx-Systems
+💻 En alternance chez Mrx-Systems à Monaco 🇲🇨 . 
 
 ---
 
@@ -50,5 +33,3 @@
 
 
 ---
-
-*"L'apprentissage est un voyage sans fin – j'avance à chaque ligne de code."*  
